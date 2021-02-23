@@ -1,0 +1,16 @@
+---
+title: "Laura Hinojosa G"
+image: "pic.jpg"
+color1: "#5A59A3"
+color2: "#D1E5F0"
+angle: 130
+links:
+  - label: Github
+    url: "https://github.com/lau-lhg"
+  - label: Email
+    url: "laurahg@lcg.unam.mx"
+output:
+  postcards::onofre
+---
+ 
+Laura is a Genomic Sciences student in the National Autonomous University of Mexico. 
