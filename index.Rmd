@@ -7,10 +7,25 @@ angle: 130
 links:
   - label: Github
     url: "https://github.com/lau-lhg"
-  - label: Email
-    url: "laurahg@lcg.unam.mx"
 output:
   postcards::onofre
 ---
  
-Laura is a Genomic Sciences student in the National Autonomous University of Mexico. 
+Genomic Sciences student in the National Autonomous University of Mexico. 
+
+### Languages
+
+Spanish (Native)
+English (C2)
+French (B2)
+
+### Programming
+
+Python
+R
+C
+
+### Contact
+
+**Email**: laurahg@lcg.unam.mx
+           lau.lhg@gmail.com
