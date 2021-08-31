@@ -11,21 +11,22 @@ output:
   postcards::onofre
 ---
  
-Genomic Sciences student in the National Autonomous University of Mexico. 
+Genomic Sciences student at the National Autonomous University of Mexico. 
 
 ### Languages
 
-Spanish (Native)
-English (C2)
+Spanish (Native) ~
+English (C2) ~
 French (B2)
 
 ### Programming
 
-Python
-R
+Python ~
+R ~
 C
 
 ### Contact
 
-**Email**: laurahg@lcg.unam.mx
-           lau.lhg@gmail.com
+**Email**
+- laurahg@lcg.unam.mx
+- lau.lhg@gmail.com
